@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    color: darkcyan;
+  }
+  
+  section {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #2980b9;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #7f8c8d;
+  }
+  
+  hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 20px 0;
+  }
+  
+  #main-header {
+    background-color: #34495e; 
+    color: white;             
+    padding: 20px;            
+    text-align: center;        
+  
+  }
+  
+  .intro {
+    background-color: #ecf0f1;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  .hobbies {
+    background-color: #0e1e60;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
